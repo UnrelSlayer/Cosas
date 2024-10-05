@@ -10,7 +10,7 @@ cout << "El miercoles tengo aprox: " << BPH*6 << " horas para estudiar" << endl;
 cout << "El jueves tengo aprox: " << BPH*7 << " horas para estudiar" << endl;
 cout << "El viernes tengo aprox: " << BPH*9 << " horas para estudiar" << endl;
 cout << "El sabado tengo aprox: " << BPH*9 << " horas para estudiar" << endl;
-cout << "El domingo tengo aprox: " << BPH*9 << " horas para estudiar" << endl;
+cout << "El domingo tengo aprox: " << BPH*9 << " horas para estudiar";
 system("pause");
 return 0;
 }
